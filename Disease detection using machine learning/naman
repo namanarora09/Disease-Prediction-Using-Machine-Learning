@@ -1,0 +1,12 @@
+naman
+healthchatbot
+
+History
+
+You may have :['Bronchial Asthma']
+symptoms present:  ['cough', 'fatigue']
+symptoms that may appear: ['fatigue', 'cough', 'high_fever', 'breathlessness', 'family_history', 'mucoid_sputum']
+confidence level is: 0.3333333333333333
+The model suggests:
+Consult ['Dr. Chhavi Bansal']
+Visit https://www.practo.com/delhi/doctor/dr-chhavi-bansal-homeopath-1?specialization=Homoeopath&practice_id=1124019
